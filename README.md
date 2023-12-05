@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨ I'm a Programming student in the "Universidad Tecnologica Nacional" of Argentina. More specifically, the career is called "Tecnicatura Universitaria en Programación", which it's rough translation is "University Technician in Programming".
+- 👨‍🎓 I'm a Programming student in the "Universidad Tecnologica Nacional" of Argentina. More specifically, the career is called "Tecnicatura Universitaria en Programación", which it's rough translation is "University Technician in Programming".
 
-- ✨ I have moderate experience in **Java** and **C#**. Modest, but not enough in **C**. And I once worked in the backend of a web page in **DJango**, however, I had to create a new GitHub profile and my HDD died wich means that I lost all files and I can't really prove it... Unless you talk to the 2 other dudes following me and ask them.
+- ♠ I have moderate experience in **Java** and **C#**. Modest, but not enough in **C**. And I once worked in the backend of a web page in **DJango**, however, I had to create a new GitHub profile and my HDD died wich means that I lost all files and I can't really prove it... Unless you talk to the 2 other dudes following me and ask them.
 
 - ✨ I'm currently focused in practicing my C# skills and, well, finishing the career.
+  
+- 🎮 I also have experience in game development in **Godot**, which is my favourite engine, and *some* in **Unity** (before they started getting really greedy). 
