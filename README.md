@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - ✨ I'm currently focused in practicing my C# skills and, well, finishing the career.
   
-- 🎮 I also have experience in game development in **Godot**, which is my favourite engine, and *some* in **Unity** (before they started getting really greedy). 
+- 🎮 I also have experience in game development in **Godot**, which is my favourite engine, and *some* in **Unity**. 
